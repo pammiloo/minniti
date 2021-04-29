@@ -1,0 +1,2 @@
+# minniti
+storymap js gigapixels
